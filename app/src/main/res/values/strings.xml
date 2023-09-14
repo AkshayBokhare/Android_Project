@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Akshay Bokhare</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="about_section">Hello team.
+        \nMy name is Akshay Bokhare
+        \nand I would like to introduce myself to you all.
+        \nI just started my job as Associate Software Enginner
+        \nAt NTS and I am excited to dive in.
+        \nI would love to get to know the rest of you
+
+
+
+ </string>
+    <string name="what_is_your_nickname">what is your nick name?</string>
+    <string name="dine">Done</string>
+</resources>
