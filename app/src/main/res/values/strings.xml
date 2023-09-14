@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="todo">TODO</string>
+    <string name="the_image_is_visible">The Image Is Visible</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="show_image">Show Image</string>
+    <string name="hide_image">Hide Image</string>
+</resources>
