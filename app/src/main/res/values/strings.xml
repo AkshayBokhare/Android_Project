@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleLanguage</string>
+    <string name="show_toast">Show Toast Message</string>
+    <string name="textView1">Hello Kotlin</string>
+    <string name="textView2">My name is Android</string>
+    <string name="textView3">I am 16 years Old</string>
+    <string name="toast_message"> this is tost message for multiple language suport device </string>
+</resources>

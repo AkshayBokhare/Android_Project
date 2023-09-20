@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">பல மொழி</string>
+    <string name="show_toast">டோஸ்ட் செய்தியைக் காட்டு</string>
+    <string name="textView1">வணக்கம் கோட்லின்</string>
+    <string name="textView2">என் பெயர் ஆண்ட்ராய்டு</string>
+    <string name="textView3">எனக்கு 16 வயது</string>
+    <string name="toast_message">இது பல மொழி ஆதரவு சாதனத்திற்கான டோஸ்ட் செய்தியாகும்</string>
+</resources>

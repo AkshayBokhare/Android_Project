@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एकाधिक भाषा</string>
+    <string name="show_toast">टोस्ट संदेश दिखाएँ</string>
+    <string name="textView1">" नमस्ते कोटलिन"</string>
+    <string name="textView2">" मेरा नाम एंड्रॉइड है"</string>
+    <string name="textView3">" मेरी आयु 16 वर्ष है"</string>
+    <string name="toast_message">" यह एकाधिक भाषा सपोर्ट डिवाइस के लिए सबसे अच्छा संदेश है"</string>
+</resources>
